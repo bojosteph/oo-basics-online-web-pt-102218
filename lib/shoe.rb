@@ -7,6 +7,9 @@ class Shoe
   end
   
   def cobbler
+    if shoe_condition? old 
+      shoe_condition == new
+      puts 
     
   end
   
