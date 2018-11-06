@@ -9,8 +9,8 @@ class Shoe
   def cobbler
     if shoe_condition? old 
       shoe_condition == new
-      puts 
-    
+      puts "Your shoe is as good as new!"
+    end
   end
   
 end
