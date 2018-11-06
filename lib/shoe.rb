@@ -7,6 +7,7 @@ class Shoe
   end
   
   def cobbler
+    
   end
   
 end
