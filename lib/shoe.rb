@@ -6,4 +6,7 @@ class Shoe
     @brand = brand
   end
   
+  def cobbler
+  end
+  
 end
