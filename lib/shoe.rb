@@ -7,8 +7,8 @@ class Shoe
   end
   
   def cobble
-    if @condition = old 
-      == new
+    if @condition != new
+      
       puts "Your shoe is as good as new!"
     end
   end
